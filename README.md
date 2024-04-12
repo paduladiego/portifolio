@@ -1,4 +1,5 @@
 # portifolio
+veja em https://paduladiego.github.io/portifolio/
 Padula's CV and Portfolio
 
 Bem-vindo ao repositório do meu portfólio e currículo, um projeto pessoal que reflete minha jornada profissional, habilidades e paixões. Como Engenheiro de Produção Mecânica com especialização em Engenharia de Software e uma paixão profunda por design, este portfólio digital é tanto uma vitrine do meu trabalho quanto um reflexo do meu compromisso com a inovação e a excelência em engenharia e design.
